@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RippleDemo</string>
+    <string name="ripple_oval_borderless">圆形无边界</string>
+    <string name="ripple_oval">圆形有边界</string>
+    <string name="ripple_rectangle">方形有边界</string>
+    <string name="ripple_pic">图形表面水波纹</string>
+    <string name="ripple_selector">水波纹和selector配合</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ripple_dark_color">#26000000</color>
+    <color name="ripple_bright_color">#59FFFFFF</color>
+    <color name="transparent_color">#00000000</color>
+</resources>
