@@ -1,3 +1,4 @@
+图挂了，可以参考文档：https://note.youdao.com/coshare/index.html?token=65452D45ED5D4253B96B68123D1DD9EF&gid=2809112
 目前几种水波纹效果说明：<br>
 1、圆形无边界（一般用作父布局背景或前）<br>
 2、<font color="red">圆形有边界(常用，一般用作父布局背景或前景)</font><br>
